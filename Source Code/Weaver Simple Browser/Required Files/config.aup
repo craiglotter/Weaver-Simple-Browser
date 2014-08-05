@@ -1,0 +1,3 @@
+APPLICATION_NAME=Weaver Simple Browser
+EXECUTABLE=Weaver Simple Browser.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Weaver Simple Browser/manifest.xml
